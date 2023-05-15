@@ -1,0 +1,19 @@
+{
+    "name": "aigletter/filesystem",
+    "description": "File reader",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aigletter\\Filesystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
